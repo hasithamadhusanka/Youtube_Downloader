@@ -2,9 +2,9 @@
   "name": "Youtube_Downloader",
   "description": "Youtube_Downloader 'Inline' ",
   "keywords": ["telegram", "inline", "YouTube", "downloader", "bot", "open", "source"],
-  "logo": "https://telegra.ph/file/643cb35f1cc80bd97add8.jpg",
-  "website": "https://github.com/Rexinazor/Youtube_Downloader",
-  "repository": "https://github.com/Rexinazor/Youtube_Downloader",
+  "logo": "https://telegra.ph/file/83b82c5efcf616d54f417.png",
+  "website": "https://github.com/hasithamadhusanka/Youtube_Downloader",
+  "repository": "https://github.com/hasithamadhusanka/Youtube_Downloader",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
