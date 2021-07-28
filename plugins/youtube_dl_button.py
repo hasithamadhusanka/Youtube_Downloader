@@ -1,6 +1,6 @@
 # Name     : Youtube_Downloader 'Inline' [ Telegram ]
-# Repo     : https://github.com/Rexinazor/Youtube_Downloader
-# Author   : Rexinazor
+# Repo     : https://github.com/hasithamadhusanka/Youtube_Downloader
+# Author   : Hasitha Madhushanka
 
 import os
 import time
