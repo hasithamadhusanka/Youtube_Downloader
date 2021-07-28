@@ -10,7 +10,7 @@ If no custom thumbnail are available bot will set the default YouTube thumbnail 
 
 Search inline facility, or paste the YouTube link to start downloading.
 
-JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://github.com/Rexinazor/Youtube_Downloader'>LINK</a>   
+JOIN <a href='https://t.me/DreamProjects1'>Updates</a> | Repo <a href='https://github.com/hasithamadhusanka/Youtube_Downloader'>LINK</a>   
     """
     WELCOME_MSG = "Hello... {}\nI can download YouTube Videos.\nSearch Inline- select and download."
     OPTIONS_TXT = "I can download YouTube Videos.\nSearch Inline- select and download."
@@ -20,8 +20,8 @@ JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://g
     NOT_AUTH_TXT = "❌ ❌ You are not authorized ❌ ❌"
     DEFAULT_TITLE = "Youtube_Downloader Repository"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/Rexinaxor"
-    DEFAULT_DESCRIPTION = "LINK: Rexinazor | Github"
+    DEFAULT_LINK = "https://github.com/hasithamadhusanka"
+    DEFAULT_DESCRIPTION = "LINK: Hasitha Madhushanka | Github"
     DEV_TITLE = "Developer information"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
     SHARE_BUTTON_TEXT = "HI..  👋\nCheckout : @{username}\nFor search and download YouTube videos"
