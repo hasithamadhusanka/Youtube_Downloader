@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Name     : Youtube_Downloader 'Inline' [ Telegram ]
-# Repo     : https://github.com/Rexinazor/Youtube_Downloader
+# Repo     : https://github.com/hasithamadhusanka/Youtube_Downloader
 # Author   : Hasitha Madhushanka
 
 from urllib.parse import quote
