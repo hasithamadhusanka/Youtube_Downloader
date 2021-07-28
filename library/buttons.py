@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Name     : Youtube_Downloader 'Inline' [ Telegram ]
 # Repo     : https://github.com/Rexinazor/Youtube_Downloader
-# Author   : Rexinazor
+# Author   : Hasitha Madhushanka
 
 from urllib.parse import quote
 from presets import Presets
